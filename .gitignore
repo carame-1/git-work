@@ -24,6 +24,9 @@ temp/
 *.key
 !.gitignore
 
+# ---- Local tooling (gh CLI, temp downloads) ----
+.tools/
+
 # ---- Dependencies / build ----
 node_modules/
 dist/
